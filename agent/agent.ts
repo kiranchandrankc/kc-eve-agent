@@ -1,5 +1,5 @@
 import { defineAgent } from "eve";
 
 export default defineAgent({
-  model: "spacexai/grok-4.7",
+  model: "anthropic/claude-sonnet-4.6",
 });
